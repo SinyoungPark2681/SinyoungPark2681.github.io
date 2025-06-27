@@ -14,7 +14,7 @@ I'm a PhD student in Statistics at the Department of Mathematical Sciences, Univ
 
 My research focuses on clustering networks.
 
-Supervisors: Dr. Sandipan Roy and Professor Matt Nunes.
+I'm supervised by Dr. Sandipan Roy and Professor Matt Nunes.
 
 
 Research Interest
