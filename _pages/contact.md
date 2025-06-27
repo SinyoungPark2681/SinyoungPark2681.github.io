@@ -5,6 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Email
 ======
 sp2681 (at) bath.ac.uk
