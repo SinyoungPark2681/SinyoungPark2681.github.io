@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, This is Sinyoung!"
+title: "Hi, this is Sinyoung!"
 author_profile: true
 redirect_from: 
   - /about/
