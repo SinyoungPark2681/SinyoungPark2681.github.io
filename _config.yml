@@ -22,7 +22,7 @@ repository               : "SinyoungPark2681/SinyoungPark2681.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Sinyoung Park"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Statistics"
