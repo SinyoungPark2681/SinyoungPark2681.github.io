@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Sinyoung Park's Homepage"
+title                    : "Sinyoung's Homepage"
 title_separator          : "-"
 name                     : &name "Sinyoung Park"
 description              : &description "PhD student in Statistics"
