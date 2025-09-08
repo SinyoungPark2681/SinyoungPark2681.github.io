@@ -11,6 +11,11 @@ author_profile: true
 
 ## New directions in community detection for core-periphery networks
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
+* *Presented at:* CMStatistics, London, UK, 2025. [(link)](https://www.cmstatistics.org/CFECMStatistics2025/)
+
+----
+
+* *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
 * *Presented at:* RSS International Conference, Edinburgh, UK, 2025. [(link)](https://rss.org.uk/training-events/conference-2025/)
 
 
