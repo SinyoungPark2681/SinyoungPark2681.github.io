@@ -9,6 +9,11 @@ author_profile: true
 
 # Presentations
 
+## New directions in community detection for core-periphery networks
+* *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
+* *Presented at:* RSS International Conference, Edinburgh, UK, 2025. [(link)](https://rss.org.uk/training-events/conference-2025/)
+
+
 ## New directions in spectral clustering for networks
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
 * *Presented at:* IMS International Conference on Statistics and Data Science (ICSDS), Nice, France, 2024. [(link)](https://sites.google.com/view/ims-icsds2024/)
