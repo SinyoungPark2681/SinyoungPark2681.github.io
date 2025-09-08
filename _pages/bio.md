@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2021-2026(expected) &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
+* 2021-2026 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
+* 2019-2020 &nbsp; M.Sc. in Statistics, University of Edinburgh, Edinburgh, UK
 
 Work Experience
 ======
@@ -19,7 +20,7 @@ Work Experience
 
 Awards
 ======
-* Best Student Poster Award, University of Bath, Bath, UK
+* Best Poster Award, SAMBa Summer Conference, University of Bath, Bath, UK
 
 Skills
 ======
