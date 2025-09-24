@@ -25,10 +25,10 @@ author_profile: true
 
 ## New directions in community detection for networks
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
-* *Presented at:* Department of Mathematical Sciences, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
+* *Presented at:* Statistics Seminar, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
 
 ## New directions in constrained spectral clustering for networks
-* *Presented by:* Sandipan Roy; *Co-authors:* Sinyoung, Matt Nunes
+* *Presented by:* Sandipan Roy; *Co-authors:* Sinyoung Park, Matt Nunes
 * *Presented at:* CMStatistics, Berlin, Germany, 2023. [(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
 
 ----
@@ -38,3 +38,8 @@ author_profile: true
 ## New directions in constrained spectral clustering for networks
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
 * *Presented at:* SAMBa Summer Conference, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
+
+----
+
+* *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
+* *Presented at:* The Research Students’ Conference (RSC) in Probability and Statistics, Sheffield, UK, 2023. [(link)](https://sites.google.com/sheffield.ac.uk/rsc-2023/home)
