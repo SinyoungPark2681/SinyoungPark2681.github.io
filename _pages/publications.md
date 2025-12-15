@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Park, S., Nunes, M., & Roy, S. (2025). A doubled adjacency spectral embedding approach to graph clustering. *ArXiv Preprint*. ([Arxiv link])(https://arxiv.org/abs/2512.11777)
+* Park, S., Nunes, M., & Roy, S. (2025). A doubled adjacency spectral embedding approach to graph clustering. *ArXiv Preprint*. [(Arxiv link)](https://arxiv.org/abs/2512.11777)
 
 
 
