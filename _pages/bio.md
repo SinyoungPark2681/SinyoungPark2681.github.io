@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2021-2026 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
-* 2019-2020 &nbsp; M.Sc. in Statistics, University of Edinburgh, Edinburgh, UK
+* 2019-2020 &nbsp; M.Sc. in Computational Applied Mathematics, University of Edinburgh, Edinburgh, UK
 
 Work Experience
 ======
