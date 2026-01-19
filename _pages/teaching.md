@@ -9,6 +9,7 @@ author_profile: true
 
 Graduate Teaching Assistant
 ====
+* 2026 Feb. - May  &nbsp; Programming for Mathematics, University of Bath, UK
 * 2025 Oct. - Dec. &nbsp; Programming, Foundations and Connections, University of Bath, UK
 * 2025 Feb. - May  &nbsp; Algebra 1B, University of Bath, UK
 * 2024 Oct. - Dec. &nbsp; Algebra 1A, University of Bath, UK
