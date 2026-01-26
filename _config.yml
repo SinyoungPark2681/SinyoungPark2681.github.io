@@ -33,8 +33,8 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://scholar.google.com/citations?hl=en&user=5d9jAnIAAAAJ"
-  googlescholar    : # URL
+  arxiv            : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5d9jAnIAAAAJ"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
