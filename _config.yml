@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://scholar.google.com/citations?hl=en&user=5d9jAnIAAAAJ"
   googlescholar    : # URL
   impactstory      : # URL
   orcid            : # URL
