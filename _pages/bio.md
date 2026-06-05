@@ -20,7 +20,8 @@ Work Experience
 
 Awards
 ======
-* Best Poster Award, SAMBa Summer Conference, University of Bath, Bath, UK
+* Poster Award, Poster session at UCL 2026, University College London, London, UK
+* Best Poster Award, SAMBa Summer Conference 2024, University of Bath, Bath, UK
 
 Skills
 ======
