@@ -20,7 +20,7 @@ Work Experience
 
 Awards
 ======
-* Poster Award, Poster session at UCL 2026, University College London, London, UK
+* Poster Award, Statistics & Probability Poster session at UCL 2026, University College London, London, UK
 * Best Poster Award, SAMBa Summer Conference 2024, University of Bath, Bath, UK
 
 Skills
