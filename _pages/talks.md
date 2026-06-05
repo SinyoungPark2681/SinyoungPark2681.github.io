@@ -39,7 +39,7 @@ author_profile: true
 
 ## A Doubled Adjacency Spectral Embedding Approach to Graph Clustering
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
-* *Presented at:* Statistics & Probability Poster session at UCL, University College London, London, UK, 2026. [(link)](https://tsoo-math.github.io/ucl2/grst/2026-poster.html)
+* *Presented at:* Statistics & Probability Poster Session at UCL, University College London, London, UK, 2026. [(link)](https://tsoo-math.github.io/ucl2/grst/2026-poster.html)
 
 
 ## New directions in constrained spectral clustering for networks
