@@ -37,6 +37,11 @@ author_profile: true
 
 # Posters
 
+## A Doubled Adjacency Spectral Embedding Approach to Graph Clustering
+* *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
+* *Presented at:* Statistics & Probability Poster session at UCL, University College London, London, UK, 2026. [(link)](https://tsoo-math.github.io/ucl2/grst/2026-poster.html)
+
+
 ## New directions in constrained spectral clustering for networks
 * *Presented by:* Sinyoung Park; *Co-authors:* Matt Nunes, Sandipan Roy
 * *Presented at:* SAMBa Summer Conference, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
