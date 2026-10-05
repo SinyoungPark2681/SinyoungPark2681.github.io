@@ -14,7 +14,7 @@ I'm a Research Associate at Cardiff University supervised by [Professor Jon Gill
 
 My research focuses on clustering networks.
 
-My PhD was supervised by [Dr. Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html) at University of Bath.
+My PhD was supervised by [Dr. Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html) at Department of Mathematical Sciences, University of Bath.
 
 
 Research Interest
