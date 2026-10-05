@@ -10,11 +10,11 @@ redirect_from:
 Current Position
 ====
 
-I'm a PhD student in Statistics at the Department of Mathematical Sciences, University of Bath.
+I'm a Research Associate at Cardiff University supervised by [Professor Jon Gillard](https://profiles.cardiff.ac.uk/staff/gillardjw). 
 
 My research focuses on clustering networks.
 
-I'm supervised by [Dr. Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
+My PhD was supervised by [Dr. Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html) at University of Bath.
 
 
 Research Interest
