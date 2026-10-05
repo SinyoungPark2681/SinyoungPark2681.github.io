@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+
+Work Experience
+======
+* 2026 - Present &nbsp; Research Associate, Cardiff University, Cardiff, UK
+* 2021 - 2026 &nbsp; Graduate Teaching Assistant, University of Bath, Bath, UK
+
 Education
 ======
 * 2021 - 2026 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
 * 2019 - 2020 &nbsp; M.Sc. in Computational Applied Mathematics, University of Edinburgh, Edinburgh, UK
-
-Work Experience
-======
-* 2021 - 2026 &nbsp; Graduate Teaching Assistant, University of Bath, Bath, UK
 
 Awards
 ======
